@@ -18,7 +18,7 @@
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSYQsdUUZ2BY_cOnZfhuDpg)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.hotseungji@gmail.com)
   
-  [![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white)](https://secure.oculus.com/)
+  [![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white)](https://oculus.com/place/3129611827294614/)
   [![Steam](https://img.shields.io/badge/Steam-004680?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198395297277/)
   <br><br><br>
 
