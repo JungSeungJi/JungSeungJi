@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> 
   
+![SeungJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungSeungJi&show_icons=true&theme=react)
 ## m e 
   [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://tmdwl806.tistory.com/)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSYQsdUUZ2BY_cOnZfhuDpg)
@@ -25,6 +26,3 @@
 ### t o d a y  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungSeungJi&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br><br><br><br>
-
-
-![SeungJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungSeungJi&show_icons=true&theme=react)
