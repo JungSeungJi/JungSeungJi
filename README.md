@@ -15,7 +15,9 @@
   [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://tmdwl806.tistory.com/)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSYQsdUUZ2BY_cOnZfhuDpg)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.hotseungji@gmail.com)
-  [![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white)](https://secure.oculus.com/my/profile/)
+  
+  [![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white)](https://secure.oculus.com/my/)
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198395297277/)
   <br><br><br>
 
 
