@@ -1,9 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=70&textColor=white)
+![header](https://ynexkimdoyeon.github.io/Ynex/img/carousel-1.jpg)
 
 <div align=center>
 
-## t e c h
+## s k i l l
   [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/JungSeungJi/gitC)
   [![C Sharp](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white)](https://github.com/JungSeungJi/gitUnity)
   [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/JungSeungJi/gitJava)
