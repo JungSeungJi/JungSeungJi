@@ -1,5 +1,5 @@
 
-![header](https://ynexkimdoyeon.github.io/Ynex/img/carousel-1.jpg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=70&textColor=white)
 
 <div align=center>
 
